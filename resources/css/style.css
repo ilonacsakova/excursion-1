@@ -2,6 +2,7 @@
  background-color: black;
  color: white;
  font-size: 40px;
+<<<<<<< HEAD
  text-align: center;
  font-family: Verdana;
  font-weight: 300;
@@ -27,3 +28,10 @@ color: grey;
 text-align: right;
 font-size: 12px;
 }
+=======
+}
+
+header{
+  font-size: 50px;
+}
+>>>>>>> 7f20bc9e6f0d1d3e29987bdb63e03ea9a9d5f6af
